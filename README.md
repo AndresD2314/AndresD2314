@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 21-year-old systems engineer, graduated from Pontificia Universidad Javeriana, and currently pursuing a Master's degree in the Internet of Things.
+I'm a 23-year-old systems engineer, graduated from Pontificia Universidad Javeriana, and currently pursuing a Master's degree in the Internet of Things.
 
 
 ## 🌐 Socials:
